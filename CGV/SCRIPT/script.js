@@ -103,7 +103,7 @@ $(window).on('scroll', function(){
                         },1000,function(){
 //                           window.open('indexTRAIRLINE.html','_self')
                             setTimeout(function() {
-	window.open('indexprugio.html','_self');
+	window.open('https://size250mm.github.io/PRE-PRUGIO/.','_self');
       }, 1000);
   ;
                         })
